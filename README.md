@@ -1,3 +1,5 @@
+This branch is a configuration of Paper 1.13.x. Check the master branch if you need the latest configuration.
+
 Paper-optimized-configuration
 ===========
 
