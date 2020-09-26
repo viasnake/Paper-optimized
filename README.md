@@ -10,6 +10,7 @@ There is no configuration suitable for all servers.  The configuration file publ
 Branch
 ------
 You can get different versions of the optimization config by switching branches.
+- [Paper 1.14.x](https://github.com/snake0053/Paper-optimized/tree/1.14.x)
 - [Paper 1.13.x](https://github.com/snake0053/Paper-optimized/tree/1.13.x)
 - [Paper 1.12.x](https://github.com/snake0053/Paper-optimized/tree/1.12.x)
 
